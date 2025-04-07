@@ -1,0 +1,104 @@
+
+body {
+        background-image: url('/photos/Shaping\ The\ Next\ Generation\ EMU.jpg'); 
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed; 
+        background-repeat: no-repeat;
+
+}
+h2{
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    width: 100vw;
+    height: auto;
+    margin-top: 10px;
+    overflow: hidden;    
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+.heading{
+    background-color: transparent;
+    backdrop-filter: blur(20px);
+    width: 50vw;
+    height: auto;
+    margin-top: -15px; 
+    border: color(srgb rgb(19, 18, 18) rgb(9, 10, 9) rgb(10, 10, 11));
+    border: 2px solid;
+    border-radius: 5px;
+
+}
+.ac{
+    width: 30%;
+    height: 377px;
+    border: 2px solid;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    backdrop-filter: blur(10px);
+
+}
+#main{
+    border: 2px solid;
+    display: flex;
+    gap: 10px;
+    margin: 0%;
+    width: 55%;
+    height: 0%;
+    margin-left: 275px;
+    justify-content: center;
+    
+}
+.line-ac{
+    width: 77%;
+    margin-top: -8%;
+    border: 1px solid;
+    border-radius: 2px;
+}
+.sub-heading{
+    display: flex;
+    justify-self: center;
+       justify-items: center;
+   align-content: first baseline; */
+}
+.sleeper{
+    width: 30%;
+    height: 377px;
+    border: 2px solid;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    backdrop-filter: blur(10px);
+    /* display: flex; */
+    /* justify-items: center;
+    justify-self: center; */
+    /* align-content: space-around; */
+}
+.line-sleeper{
+    width: 77%;
+    margin-top: -8%;
+    border: 1px solid;
+    border-radius: 2px;
+}
+.submit{
+    display: flex;
+    justify-content: space-around;
+    /* width: 50px;
+    height: 500px; */
+    margin-top: 83%;
+    /* align-items: baseline;
+    align-content: baseline; */
+    width: 75px;
+    text-align: center;
+    color: black; 
+    background-color: silver;
+    margin-left: -30%;
+    margin-right: 0%;
+    margin-inline-start: ;
+
+}
+a{
+    text-decoration: none;
+    colo
+}

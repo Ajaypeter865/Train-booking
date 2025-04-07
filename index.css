@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(/photos/train.jpg);
+    background-size: cover;
+    height: 100vh;
+    font-weight: bold;
+}
+.content{
+    display: flex;
+    align-items: center;
+    border: 1px solid #000000;
+    justify-content: center;
+    width: 400px;
+    height: 130px;
+    margin-left: 5%;
+    backdrop-filter: blur(20px);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+}
+input{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+button{
+    background-color: transparent;
+    color: black;
+    display: block;
+    margin: 10px auto;
+    text-decoration: none;
+    border-color: rgb(232, 232, 236);
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    width: auto;
+    height: auto;
+
+
+
+}
+label{
+    font-family: arial, sans-serif;
+    font-weight: 300;
+    font-size: medium;
+    backdrop-filter: blur(10px);
+    
+
+}

@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(/photos/train.jpg);
+    background-size: cover;
+    height: 100vh;
+    font-weight: bold;
+
+}
+.container{
+    background: rgba(255, 255, 255, 0.8);
+    width: 232px;
+    height: 250px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+button{
+    background-color: black;
+    color: white !important;
+    width: 40px;
+    height: 20px;
+    cursor: pointer;
+     text-decoration: none !important; /*not working */
+}
+a{
+    color: white;
+    text-decoration: none !important;
+}
