@@ -20,7 +20,7 @@ button{
     width: 40px;
     height: 20px;
     cursor: pointer;
-     text-decoration: none !important; /*not working */
+    
 }
 a{
     color: white;
