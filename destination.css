@@ -3,6 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     background: url(/photos/train.jpg);
+    
     background-size: cover;
     height: 100vh;
     font-weight: bold;
